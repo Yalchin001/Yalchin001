@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yalchin Hasanov 👋
 
-<!--
-**Yalchin001/Yalchin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst working with SQL, Excel, Power BI, and Python. I am currently developing practical data analytics projects through the DevJoint and CodeAlpha internship programs.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **SQL:** Oracle SQL, SQLite, joins, aggregations, CTEs, and window functions
+* **Excel:** Data cleaning, lookup formulas, PivotTables, and dashboards
+* **Power BI:** Data modeling, DAX, and interactive dashboards
+* **Python:** Pandas, NumPy, Matplotlib, and Seaborn
+
+## 📂 Featured Projects
+
+* [DevJoint Data Analytics Internship](https://github.com/Yalchin001/DevJoint-Data-Analytics-Internship)
+  SQL and Excel modules completed; Power BI module currently in progress.
+
+* [Data Analyst Portfolio](https://yalchin001.github.io/)
+  Selected projects, technical skills, and CV.
+
+## 📌 Current Focus
+
+* Building practical data analytics projects
+* Developing Power BI and Python skills
+* Documenting project work clearly on GitHub
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/yalchinhasanov/) | [Portfolio](https://yalchin001.github.io/)

@@ -14,8 +14,6 @@ Junior Data Analyst working with SQL, Excel, Power BI, and Python. I am currentl
 * [DevJoint Data Analytics Internship](https://github.com/Yalchin001/DevJoint-Data-Analytics-Internship)
   SQL and Excel modules completed; Power BI module currently in progress.
 
-* [Data Analyst Portfolio](https://yalchin001.github.io/)
-  Selected projects, technical skills, and CV.
 
 ## 📌 Current Focus
 
@@ -25,4 +23,4 @@ Junior Data Analyst working with SQL, Excel, Power BI, and Python. I am currentl
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/yalchinhasanov/) | [Portfolio](https://yalchin001.github.io/)
+[LinkedIn](https://www.linkedin.com/in/yalchinhasanov/)

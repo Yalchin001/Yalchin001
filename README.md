@@ -12,7 +12,7 @@ Junior Data Analyst working with SQL, Excel, Power BI, and Python. I am currentl
 ## 📂 Featured Projects
 
 * [DevJoint Data Analytics Internship](https://github.com/Yalchin001/DevJoint-Data-Analytics-Internship)
-  SQL and Excel modules completed; Power BI module currently in progress.
+  SQL, Excel and Power BI modules completed with documented projects and dashboards.
 
 
 ## 📌 Current Focus

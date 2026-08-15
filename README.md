@@ -2,7 +2,7 @@
 
 Junior Data Analyst with an economics background and practical experience in SQL, Excel, Power BI, and Python.
 
-I have completed the DevJoint Data Analytics Internship and all assigned CodeAlpha Data Analytics tasks. My project work includes SQL analysis, Excel dashboards, Power BI reporting, Python-based data analysis, data visualization, web scraping, sentiment analysis, and business case reporting.
+I recently completed a four-week project-based Data Analytics Internship at DevJoint. During the internship, I worked on SQL analysis, Excel data analysis, Power BI dashboard development, and a marketing business case project.
 
 ## Skills and Tools
 
@@ -20,10 +20,6 @@ A four-week project-based program covering SQLite, Excel data analysis, Power BI
 
 [View the DevJoint Data Analytics Internship repository](https://github.com/Yalchin001/DevJoint-Data-Analytics-Internship)
 
-### CodeAlpha Data Analytics Tasks
-
-Completed Python projects covering web scraping, exploratory data analysis, data visualization, and sentiment analysis.
-
 ### Data Analytics Portfolio
 
 My portfolio includes selected SQL, Excel, Power BI, and Python projects with project descriptions and links.
@@ -34,7 +30,7 @@ My portfolio includes selected SQL, Excel, Power BI, and Python projects with pr
 
 * Improving my Power BI and Python skills
 * Building practical data analytics projects
-* Documenting analysis clearly on GitHub
+* Documenting my analysis clearly on GitHub
 * Preparing for junior data analyst opportunities
 
 ## Connect With Me

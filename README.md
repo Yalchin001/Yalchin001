@@ -2,7 +2,7 @@
 
 Junior Data Analyst with an economics background and practical experience in SQL, Excel, Power BI, and Python.
 
-I recently completed a four-week project-based Data Analytics Internship at DevJoint. During the internship, I worked on SQL analysis, Excel data analysis, Power BI dashboard development, and a marketing business case project.
+I recently completed and submitted all four weekly projects for the DevJoint Data Analytics Internship. During the internship, I worked on SQL analysis, Excel data analysis, Power BI dashboard development, and a marketing business case project.
 
 ## Skills and Tools
 

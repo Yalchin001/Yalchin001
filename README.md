@@ -82,6 +82,8 @@ An interactive Power BI dashboard analyzing global video game sales by year, gen
 
 [View the Video Game Sales Dashboard project](https://github.com/Yalchin001/video-game-sales-dashboard)
 
+---
+
 ## Professional Background
 
 Before focusing on data analytics, I gained practical experience in banking and credit operations. My responsibilities included evaluating client risk, reviewing financial information, preparing Excel reports, and managing a business credit portfolio.
